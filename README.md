@@ -1,6 +1,10 @@
 # Data-Science
-## *
-## *
-## * Data science EdTech
+* ## Salary Prediction
+Kaggle has hosted an open data scientist competition in 2019 titled “2019 Kaggle ML & DS Survey Challenge.” The purpose of this challenge was to “tell a data story about a subset of the data science community represented in this survey, through a combination of both narrative text and data exploration.” More information on the competition, data, and prizes can be found on:
+https://www.kaggle.com/c/kaggle-survey-2019
+* ## Sentiment Analysis on Twitter
+The goal is to essentially use sentiment analysis on Twitter data to get insight into the 2019 Canadian elections.
+Central to sentiment analysis are techniques first developed in text mining. Some of those techniques require a large collection of classified text data often divided into two types of data, a training data set and a testing data set. The training data set is further divided into data used solely for the purpose of building the model and data used for validating the model. The process of building a model is iterative, with the model being successively refined until an acceptable performance is achieved. The model is then used on the testing data in order to calculate its performance characteristics.
+* ## Data science EdTech
 Data science, analytics, AI, big data are becoming widely used in many fields, that leads to the ever-increasing demand of data analysts, data scientists and other data professionals. Due to that, data science education is now a hot topic for educators and entrepreneurs.
 In this project, your team will first re-design the course curriculum for “MIE1624: Introduction to Data Science and Analytics” course at University of Toronto, such that students acquire an introduction to the most relevant topics and skills in data science and AI. Second, your team will need to design a curriculum for a new “Master of Data Science and Artificial Intelligence” program at University of Toronto with focus not only on technical but also on business and soft skills, see, e.g., http://www.rotman.utoronto.ca/Degrees/MastersPrograms/MMA, http://smith.queensu.ca/grad_studies/mmai/, http://mbai.kse.ua, or http://schulich.yorku.ca/programs/mmai/, that contains optimal courses (and internships, projects, extra-curricular activities, etc.) for students to obtain necessary technical and business skills to pursue a successful career as data scientist, analytics and data manager, data analyst, business analyst, AI system designer, etc. Third, your team will need to develop your own analytics-based solution in education field, examples of ideas can be found below, but you are not limited to those.
